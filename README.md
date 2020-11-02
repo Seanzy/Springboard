@@ -15,10 +15,7 @@ git add readme.md or git add . to add everything
 
 Then type git commit -m "commit message", with an appropriate message of your own
 
-Then, if it's the first time pushing to this repo type
-
 git push
 
-After that you can type git push origin master or git push origin <branch> 
 
-  
+
