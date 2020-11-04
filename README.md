@@ -25,3 +25,9 @@ To compare the state of your files with those in the staging area, you can use g
 You can restrict the results to a single file or directory using git diff -r HEAD path/to/file, where the path to the file is relative to where you are (for example, the path from the root directory of the repository).
 
 We will explore other uses of -r and HEAD in the next chapter.
+
+Git log for history of a file
+
+git show <first 6 digits of hash>
+
+git annotate <file>
