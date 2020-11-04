@@ -57,3 +57,22 @@ git reset HEAD path/to/file
 git checkout -- path/to/file
 (You may be wondering why there are two commands for re-setting changes. The answer is that unstaging a file and undoing changes are both special cases of more powerful Git operations that you have not yet seen.)
 
+How can I find out where a cloned repository originated?
+When you a clone a repository, Git remembers where the original repository was. It does this by storing a remote in the new repository's configuration. A remote is like a browser bookmark with a name and a URL.
+
+If you use an online git repository hosting service like GitHub or Bitbucket, a common task would be that you clone a repository from that site to work locally on your computer. Then the copy on the website is the remote.
+
+If you are in a repository, you can list the names of its remotes using git remote.
+
+If you want more information, you can use git remote -v (for "verbose"), which shows the remote's URLs. Note that "URLs" is plural: it's possible for a remote to have several URLs associated with it for different purposes, though in practice each remote is almost always paired with just one URL.
+
+11/4/20 - 
+Doing the git exercises from the https://gitexercises.fracz.com/exercise/master website. 
+The commands were written for Linux so I converted to Windows below. The site was kind of confusing because it doesn't clearly tell you how to do the practice exercises. You're supposed to type in the information they request then go into your console / cmd and type in the rest. Here are the windows commands to be typed in:
+
+git clone https://gitexercises.fracz.com/git/exercises.git
+cd exercises
+git config user.name "Your name here"
+git config user.email "Your e-mail here"
+configure.sh (I think), not sure what this does, but it prompted me to open it so I opened with sublime. 
+start.sh, not git start
