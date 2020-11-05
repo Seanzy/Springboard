@@ -74,5 +74,8 @@ git clone https://gitexercises.fracz.com/git/exercises.git
 cd exercises
 git config user.name "Your name here"
 git config user.email "Your e-mail here"
-configure.sh (I think), not sure what this does, but it prompted me to open it so I opened with sublime. 
+configure.sh  
 start.sh, not git start
+
+Passing 4 exercises! I love this way of improving! Thank you Springboard. 
+
