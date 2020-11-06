@@ -77,5 +77,4 @@ git config user.email "Your e-mail here"
 configure.sh  
 start.sh, not git start
 
-Passing 4 exercises! I love this way of improving! Thank you Springboard. 
-
+Passing 4 exercises! I love this way of improving! Thank you Springboard for introducing me to this site. I stopped using the Github website to push my changes now! 
