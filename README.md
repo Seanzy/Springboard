@@ -78,3 +78,7 @@ configure.sh
 start.sh, not git start
 
 Passing 4 exercises! I love this way of improving! Thank you Springboard for introducing me to this site. I stopped using the Github website to push my changes now! 
+
+11/5/20 - attempted a codewars kata today but had computer issues with too many python processes running in the background. Completed more Springboard work, traded, and worked on my trading programs. Need to get many things automated. 
+
+11/6/20 - Spoke with mentor today. 
