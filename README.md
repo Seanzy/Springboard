@@ -3,6 +3,8 @@
 #
 Practicing with git
 
+##
+Starting New Projects / repositories
 First clone the repo from website by copying the link of the repo and typing into command line: 
 git clone https://github.com/Seanzy/Springboard.git
 
@@ -82,3 +84,5 @@ Passing 4 exercises! I love this way of improving! Thank you Springboard for int
 11/5/20 - attempted a codewars kata today but had computer issues with too many python processes running in the background. Completed more Springboard work, traded, and worked on my trading programs. Need to get many things automated. 
 
 11/6/20 - Spoke with mentor today. 
+
+11/8/20 - Will start adding docstrings to my functions
